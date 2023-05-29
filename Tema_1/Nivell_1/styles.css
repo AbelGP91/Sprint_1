@@ -115,16 +115,16 @@ body{
         flex-direction: column;
     }
     .menu{
-        flex-direction: column;             
+        flex-direction: column;                  
     }
-        .logo{
-            width: 80%;
+        .logo{           
+            width: 90%;
         }
         .nav{
-            width: 80%;
+            width: 90%;
         }
         .social{
-            width: 80%;
+            width: 90%;
         }
         
 }
